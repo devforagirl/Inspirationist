@@ -5,7 +5,7 @@ A "napkin-note" style Chrome extension that delivers sparks of inspiration from 
 ## ✨ Core Features
 
 - **Napkin UI Design**: Features a realistic paper napkin background using 9-slice scaling technology for perfect responsiveness.
-- **Handwritten Typography**: Built-in curated fonts (*Indie Flower*, *Gloria Hallelujah*) to create an authentic "scribbled note" feel.
+- **Handwritten Typography**: Built-in curated local fonts (*Indie Flower*, *Gloria Hallelujah*) to create an authentic "scribbled note" feel.
 - **Deep Customization**: Adjust font style, size, bold weight, and toggle functionality via the Side Panel.
 - **Smart Interactions**:
   - Click text for the next inspiration; click the background to reveal controls.
@@ -15,7 +15,10 @@ A "napkin-note" style Chrome extension that delivers sparks of inspiration from 
 
 ## 🛠️ Installation & Development
 
-1. Clone this repository.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/devforagirl/Inspirationist.git
+   ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable "Developer mode" (top right).
 4. Click "Load unpacked" and select the project folder.
