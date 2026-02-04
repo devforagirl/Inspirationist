@@ -1,0 +1,21 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific ignores
+supabase/
+setup_supabase.sql
+update_function.sql
+commands.txt
+import_data.csv
+mock_inspirations.md
+plan.md
+
+# Build output
+*.zip
